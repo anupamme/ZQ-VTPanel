@@ -2793,7 +2793,7 @@ export default {
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<title>ZQ-VTPanel</title>
-	<link rel="icon" type="image/png" href="https://img.520jacky.dpdns.org/i/2026/04/21/489658.webp">
+	<link rel="icon" type="image/png" href="http://img.520jk.cc.cd/i/2026/10/10/726865.webp">
 	<style>
 		:root {
 		    --primary: #2563eb;
@@ -2957,7 +2957,7 @@ export default {
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<title>ZQ-VTPanel</title>
-	<link rel="icon" type="image/png" href="https://img.520jacky.dpdns.org/i/2026/04/21/489658.webp">
+	<link rel="icon" type="image/png" href="http://img.520jk.cc.cd/i/2026/10/10/726865.webp">
 	<style>
 		:root {
 		  --primary: #2563eb;
